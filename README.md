@@ -31,7 +31,7 @@ The Youtube api provides a field called 'category' that describes the video topi
 ### 2.1) Best trend rating index by video category (packed bubble chart) ###
 ![Best trend rating by category](https://raw.githubusercontent.com/thepn/yt-trends/main/Results/trend%20index%20by%20category.png)
 Please click on the chart to zoom in if the text labels are too small. The packed bubble chart shows the trend rating position by chart. The bigger each bubble, the more relevant the topic seems to be in the German Youtube trends. As expected, the most relevant topics are 'People & Blogs' because of the vlog youtubers, Entertainment and sports.
-In my opinion, it is surprising that the categories Gaming, 'HowTo & Style', and Comedy seems to be less important, as are the topics 'News & Politics', 'Autos & Vehicles' 'Science & Technology' and 'Education'. The categories 'Film & Animation', 'Travel & Events', 'Pets & Animals' and 'Nonprofits & Activism' are the least relevant on the 'trends' page.
+In my opinion, it is surprising that the categories Gaming, 'HowTo & Style', and Comedy seems to be less important, as are the topics 'News & Politics', 'Autos & Vehicles', 'Science & Technology' and 'Education'. The categories 'Film & Animation', 'Travel & Events', 'Pets & Animals' and 'Nonprofits & Activism' are the least relevant on the 'trends' page.
 
 # Sources
 [1] Youtube Data Api https://developers.google.com/youtube/v3 \
