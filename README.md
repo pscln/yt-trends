@@ -8,7 +8,7 @@ Please note that my data can be incomplete or corrupted due to server downtimes 
 For legal reasons, I cannot publish the records of the database.
 
 # Corona crisis
-To verify the results gained from the data, we can compare the amount of trending videos about the Corona virus and the amount of positive laboratory tests in Germany [2]. When theese two graphs correlate, the results should be correct to a certain degree.
+To verify the results gained from the data, we can compare the amount of trending videos about the Corona virus and the amount of positive laboratory tests in Germany [2]. When these two graphs correlate, the results should be correct to a certain degree.
 
 ### 1) Positive Corona virus tests in 2020 in Germany by week of the year ###
 ![Positive Corona virus tests since week 10 of 2020 in Germany](https://github.com/thepn/yt-trends/blob/main/Results/Positive%20tests%20since%20week%2010%20of%202020%20in%20Germany.png?raw=true)
