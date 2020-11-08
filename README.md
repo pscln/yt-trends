@@ -35,5 +35,5 @@ In my opinion, it is surprising that the categories Gaming, 'HowTo & Style', and
 
 # Sources
 [1] Youtube Data Api https://developers.google.com/youtube/v3 \
-[2] German laboratory tests https://de.statista.com/statistik/daten/studie/1107749/umfrage/labortest-fuer-das-coronavirus-covid-19-in-deutschland/#professional
+[2] German laboratory tests https://de.statista.com/statistik/daten/studie/1107749/umfrage/labortest-fuer-das-coronavirus-covid-19-in-deutschland/#professional \
 [3] Google Trends search for 'Coronavirus' in German https://trends.google.com/trends/explore?geo=DE&q=%2Fm%2F01cpyy
